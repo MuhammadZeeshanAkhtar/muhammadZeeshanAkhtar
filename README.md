@@ -1,234 +1,321 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Akhtar</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer | Python Developer | Data Scientist
-</h3>
+<img src="https://avatars.githubusercontent.com/u/186289271?v=4" width="120" height="120" alt="Muhammad Zeeshan Akhtar">
 
-<p align="center">
+# 👋 Hi, I'm Muhammad Zeeshan Akhtar
+
+### AI/ML Engineer | Python Developer | Data Scientist | Full-Stack Developer
+
+<p>
   <a href="https://github.com/MuhammadZeeshanAkhtar">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadZeeshanAkhtar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=MuhammadZeeshanAkhtar&label=Profile%20Views&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/MuhammadZeeshanAkhtar?tab=followers">
-    <img src="https://img.shields.io/github/followers/MuhammadZeeshanAkhtar?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MuhammadZeeshanAkhtar?label=Followers&style=flat" alt="Followers"/>
+  </a>
+  <a href="mailto:mianzeeshan4381@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadzeeshanakhtar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammadzeeshanakhtar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:mianzeeshan4381@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering graduate focused on building practical solutions
-in **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**.
+AI/ML Engineer and Python Developer with a strong foundation in **machine learning, data science, data analysis, data engineering, and software engineering**. I build practical, end-to-end applications that connect data and AI models with reliable APIs, databases, and modern web interfaces.
 
-I enjoy transforming ideas into complete applications — from data processing
-and machine learning models to APIs, databases, and modern web interfaces.
+My work spans **machine learning model development, deep learning, NLP, computer vision, LLM applications, RAG, prompt engineering, AI automation, agentic AI workflows, ETL, exploratory data analysis, REST APIs, and full-stack development**.
 
-- 🎓 BS Software Engineering
-- 🤖 Focused on AI/ML and Data Science
-- 🐍 Python developer
-- 🌐 Full-Stack application development
-- 📊 Interested in Machine Learning & Data Engineering
-- 🚀 Building practical AI-powered applications
-- 📍 Based in Pakistan
+I enjoy turning real-world problems into usable software — from data preprocessing and model training to backend services, database integration, and responsive frontend applications.
+
+- 🎓 BS Software Engineering — International Islamic University Islamabad
+- 📊 CGPA: **3.35**
+- 🤖 Focus: AI/ML, Data Science, Data Analysis & AI Engineering
+- 🐍 Primary language: Python
+- 🌐 Full-stack development with React + Python APIs
+- 🧠 LLM, RAG, Agentic AI & AI Automation
+- 📍 Pakistan
+
+---
+
+## 🏅 Honors & Recognition
+
+### 🥇 1st Position — MindSense
+**IIUI Career Expo 2026**
+
+MindSense, my Final Year Project, received **1st Position at the IIUI Career Expo 2026**.
+
+The project combines software engineering with multimodal AI for mental wellness screening and support using text, voice, and video-based analysis.
+
+🔗 [View my LinkedIn profile & project updates](https://www.linkedin.com/in/muhammadzeeshanakhtar/)
+
+> **Certificate:** The recognition is listed in my CV/LinkedIn. A direct certificate image is not embedded here because LinkedIn's public page does not expose the certificate media as a stable direct image URL.
 
 ---
 
 ## 💼 Experience
 
 ### 🔹 Sigma Evaluation — AI/ML Intern
+**On-site Internship — 6 Months**
 
-Worked on AI-powered software projects during my internship, including
-AI modules for career coaching, resume generation, and interview preparation.
+Worked on AI-powered software modules including career coaching, resume generation, and interview preparation systems.
 
-**Focus:** Python • AI/ML • APIs • Full-Stack Development
+**Key areas:** AI/ML • LLM Applications • APIs • Full-Stack Development • AI Workflows
 
 ---
 
-### 🔹 2B Vision Technologies — Software Developer
+### 🔹 2B Vision Technologies, Lahore — Software / AI Intern
+**On-site Internship — 6 Months**
 
-Worked for **6 months** on software development projects involving
-application development and technical implementation.
+Worked on software and AI-focused development projects, contributing to application development, implementation, and technical problem solving.
 
-**Focus:** Software Development • Python • Web Technologies
+**Key areas:** Python • Software Development • AI/ML • Web Technologies
 
 ---
 
 ### 🔹 Vertex Tech — AI & Data Engineering Intern
+**Remote Internship — 1 Month**
 
-Worked on AI and data-focused development involving data processing,
-machine learning workflows, and application development.
+Worked on AI, machine learning, and data engineering tasks including:
 
-**Focus:** AI/ML • Python • Data Engineering
+- Python-based data processing and ETL pipelines
+- Data cleaning, transformation, and exploratory data analysis
+- Machine learning model training and evaluation using Scikit-learn
+- Git/GitHub-based collaboration and version control
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI / Machine Learning Projects
+## 🧠 1. MindSense — Multimodal Depression Detection & Therapy System
 
-### 🧠 MindSense — Multimodal Depression Screening & Support
+**Final Year Project | 1st Position — IIUI Career Expo 2026**
 
-A multimodal AI-based screening and support platform combining:
+A full-stack AI application designed for mental wellness screening and support using multimodal inputs.
 
+### Core Areas
 - 📝 Questionnaire-based assessment
 - 💬 Text analysis
-- 🎙️ Voice analysis
-- 🎥 Facial/video analysis
-- 🧠 Multimodal fusion
+- 🎙️ Voice/audio analysis
+- 🎥 Video/facial analysis
+- 🧠 Multimodal AI fusion
 - 📊 Assessment reports
 - 📈 Mood tracking
+- 📚 Therapy & mental health resources
 - 🧑‍💻 Admin dashboard
 
-**Tech Stack:**
+### Technology
+`Python` `React` `TypeScript` `FastAPI` `PyTorch` `Transformers`
+`RoBERTa` `OpenSMILE` `OpenFace` `librosa` `faster-whisper`
+`Supabase` `PostgreSQL` `Tailwind CSS`
 
-`React` `TypeScript` `Tailwind CSS` `FastAPI` `Python`
-`PyTorch` `Transformers` `RoBERTa` `OpenSMILE`
-`OpenFace` `librosa` `faster-whisper` `Supabase`
-
-🔗 **Repository:**  
-https://github.com/MuhammadZeeshanAkhtar
+🔗 [LinkedIn Project Updates](https://www.linkedin.com/in/muhammadzeeshanakhtar/)
 
 ---
 
-## 🧠 Full-Stack AI Projects
+## 🌾 2. Agri-Vision — AI-Powered Rice Disease Detection System
 
-### 🚀 SigmaWork AI Modules
+**NAVTTC Final Project**
 
-A collection of AI-powered modules developed during my internship,
-including:
+A deep-learning based system for detecting and classifying rice leaf diseases from images.
 
+### Highlights
+- 🌱 Rice leaf disease classification
+- 🧠 CNN-based deep learning
+- 🖼️ Image preprocessing
+- 🔄 Data augmentation
+- 📈 Model optimization
+- 🌐 Flask web application for real-time prediction
+
+### Technology
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV`
+`NumPy` `Pandas` `Matplotlib` `Flask` `Git`
+
+---
+
+## 🤖 3. Sigma AI Modules
+
+AI-powered software modules developed during my internship at Sigma Evaluation.
+
+### Modules
 - 💬 Career Coaching Chatbot
 - 📄 AI Resume Maker
 - 🎤 Interview Preparation System
-- 🧠 Profile and resume grounded AI interactions
-- 📚 Interview history and feedback
+- 🧠 Profile/resume-grounded AI interactions
+- 📚 Interview practice history and structured feedback
 
-**Tech Stack:**
+### Technology
+`AI/ML` `Python` `APIs` `React` `TypeScript` `Node.js`
+`MySQL` `Drizzle`
 
-`Python` `AI/ML` `APIs` `MySQL` `Drizzle`
-`React` `TypeScript` `Node.js`
-
-🔗 **Repository:**  
-https://github.com/MuhammadZeeshanAkhtar/sigmawork-ai-modules
+🔗 [Repository — sigmawork-ai-modules](https://github.com/MuhammadZeeshanAkhtar/sigmawork-ai-modules)
 
 ---
 
-### 📚 Noor Ilm — Islamic Learning Platform
+## 📚 4. Zufishan — Islamic Learning Platform
 
-A modern learning management platform designed for tutors and learners,
-with separate dashboards and learning workflows.
+**Repository:** `noor-ilm-lms`
 
-**Focus:**
+A modern Islamic learning platform with separate workflows for tutors and learners.
 
+### Features
 - 👨‍🏫 Tutor Dashboard
 - 👨‍🎓 Learner Dashboard
 - 🔐 Authentication
-- 📚 Learning Modules
+- 📚 Learning modules
 - 🔔 Notifications
 - 🌐 Multi-language support
-- 📊 User data management
+- 👤 Profile & user management
 
-**Tech Stack:**
-
+### Technology
 `React` `TypeScript` `Tailwind CSS` `Supabase`
 
-🔗 **Repository:**  
-https://github.com/MuhammadZeeshanAkhtar/noor-ilm-lms
+🔗 [Repository](https://github.com/MuhammadZeeshanAkhtar/noor-ilm-lms/tree/fresh/noor-ilm-rebuild)
 
 ---
 
-# 🎨 Frontend Projects
+# 🎨 Frontend Development
 
-I also build modern, responsive interfaces using:
+I build modern, responsive frontend applications with a focus on clean UI, reusable components, dashboards, authentication flows, API integration, and responsive UX.
 
-`React` `TypeScript` `JavaScript` `Tailwind CSS`
-`HTML5` `CSS3` `Vite`
+### Frontend Skills
 
-My frontend work focuses on:
-
-- Responsive UI
-- Dashboard design
-- Component-based architecture
-- Modern UX
-- API integration
-- Authentication flows
-- Data visualization
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `React 18`
+`Tailwind CSS` `Vite` `shadcn/ui` `Radix UI` `Framer Motion`
+`Recharts` `Responsive Design` `Component Architecture`
+`API Integration` `Authentication UI` `Dashboard Development`
 
 ---
 
-# 🛠️ Tech Stack
+# ⚙️ Backend Development
 
-### 👨‍💻 Languages
+### Backend Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css" />
-</p>
+`Python` `FastAPI` `Flask` `REST APIs` `API Integration`
+`Node.js` `Authentication` `Database Integration`
+`Server-side Logic` `API Testing` `JSON` `HTTP/REST`
 
-### 🤖 AI / Machine Learning
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
-</p>
+# 🤖 AI & Machine Learning
 
-**Libraries & Tools**
+### Machine Learning
+`Machine Learning` `Deep Learning` `Model Training`
+`Model Evaluation` `Feature Engineering` `Classification`
+`Predictive Modeling` `NLP` `Computer Vision`
 
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow`
-`PyTorch` `OpenCV` `Transformers`
-`librosa` `OpenSMILE` `OpenFace`
+### Frameworks & Libraries
+`Scikit-learn` `TensorFlow` `Keras` `PyTorch`
+`Transformers` `RoBERTa` `OpenCV` `OpenSMILE`
+`OpenFace` `librosa` `faster-whisper`
 
-### 🌐 Frontend
+### LLM & Generative AI
+`LLMs` `RAG` `Prompt Engineering` `LangChain`
+`FAISS` `ChromaDB` `LLM Applications`
+`Context Grounding` `AI Chatbots` `AI-assisted Applications`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite" />
-</p>
+---
 
-### ⚙️ Backend
+# 🧠 Agentic AI & AI Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
-</p>
+### Agentic / LLM Skills
+`Agentic AI` `AI Agents` `Tool-Using AI`
+`LLM Workflows` `Prompt Engineering` `RAG`
+`Context Retrieval` `Memory-based AI`
+`Multi-step AI Workflows` `AI Chatbots`
 
-### 🗄️ Databases
+### AI Automation
+`AI Automation` `Intelligent Workflows`
+`AI-powered Applications` `API-based Automation`
+`Data Processing Workflows` `AI Integration`
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
-</p>
+---
 
-### 🔧 Tools
+# 📊 Data Science & Data Analysis
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" />
-</p>
+### Data Science
+`Data Science` `Data Preprocessing` `EDA`
+`Feature Engineering` `Statistical Analysis`
+`Predictive Modeling` `Data Visualization`
+`Model Evaluation`
+
+### Data Analysis
+`Pandas` `NumPy` `Matplotlib`
+`Data Cleaning` `Data Transformation`
+`Exploratory Data Analysis` `SQL`
+`Data Visualization` `Reporting`
+
+---
+
+# 🔄 Data Engineering
+
+`ETL` `Data Cleaning` `Data Transformation`
+`Data Modeling` `Data Pipelines`
+`Data Processing` `SQL`
+`PostgreSQL` `MySQL` `SQLite` `Supabase`
+`Database Management`
+
+---
+
+# 🗄️ Databases
+
+`PostgreSQL` `MySQL` `SQLite` `Supabase`
+`SQL` `Database Design` `Relational Databases`
+`Vector Databases` `FAISS` `ChromaDB`
+
+---
+
+# 🛠️ Tools & Development
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
+`Google Colab` `Postman` `Vitest` `ESLint`
+`FFmpeg`
+
+---
+
+# 🎓 Education
+
+### 🎓 BS Software Engineering
+**International Islamic University Islamabad (IIUI)**  
+**2022 – 2026**  
+**CGPA: 3.35**
+
+### 🎓 F.Sc Pre-Engineering
+**Superior College, Arifwala**  
+**2020 – 2022**  
+**Grade: A+**
+
+---
+
+# 📜 Certifications & Professional Learning
+
+- 🥇 **1st Position — MindSense Final Year Project**, IIUI Career Expo 2026
+- 🤖 **Data Science & AI Certification — NAVTTC** (Under NUST University)
+- 🧠 **Machine Learning Specialization — Stanford University** (Coursera)
+- 🐍 **Python for Everybody — Google** (Coursera)
+- 📊 **Python for Data Science, AI & Development — IBM** (Coursera)
+- 📈 **Data Analysis with Python — IBM** (Coursera)
+
+🔗 [LinkedIn — Certifications, Projects & Skills](https://www.linkedin.com/in/muhammadzeeshanakhtar/)
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZeeshanAkhtar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshanAkhtar&layout=compact&langs_count=8&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZeeshanAkhtar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshanAkhtar&layout=compact&langs_count=10&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
----
-
-# ⭐ GitHub Repository & Contribution Stats
+### ⭐ Repository & Contribution Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZeeshanAkhtar&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180" alt="GitHub Summary Stats"/>
 </p>
 
 ---
@@ -236,15 +323,40 @@ My frontend work focuses on:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZeeshanAkhtar&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadZeeshanAkhtar&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Activity & Commit Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZeeshanAkhtar&theme=github-compact&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZeeshanAkhtar&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 📅 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZeeshanAkhtar&theme=github_dark" width="100%" alt="GitHub Contribution Overview"/>
+</p>
+
+---
+
+# 💻 Repository Language Distribution
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180" alt="Repositories Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180" alt="Most Commit Language"/>
+</p>
+
+---
+
+# 🕒 Productive Time
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadZeeshanAkhtar&theme=github_dark&utcOffset=5" height="180" alt="Productive Time"/>
 </p>
 
 ---
@@ -252,49 +364,61 @@ My frontend work focuses on:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadZeeshanAkhtar&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadZeeshanAkhtar&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 📌 What I Build
+# 🧩 What I Build
 
-| Area | Focus |
-|------|------|
+| Area | Technologies / Focus |
+|---|---|
 | 🤖 AI / ML | Machine Learning, Deep Learning, NLP, Computer Vision |
-| 🧠 AI Applications | AI-powered real-world applications |
-| 🌐 Full-Stack AI | React + Python + AI/ML + APIs |
-| 🎨 Frontend | React, TypeScript, Tailwind CSS |
-| 🐍 Backend | Python, Flask, FastAPI |
-| 📊 Data | Pandas, NumPy, SQL, Data Processing |
-| 🗄️ Database | PostgreSQL, MySQL, SQLite, Supabase |
+| 🧠 Generative AI | LLMs, RAG, Prompt Engineering, LangChain |
+| 🕵️ Agentic AI | AI Agents, Tool Use, Multi-step AI Workflows |
+| ⚡ AI Automation | AI-powered workflows, API integrations, intelligent automation |
+| 📊 Data Science | EDA, Feature Engineering, Predictive Modeling |
+| 📈 Data Analysis | Pandas, NumPy, SQL, Visualization |
+| 🔄 Data Engineering | ETL, Data Cleaning, Transformation, Pipelines |
+| 🎨 Frontend | React, TypeScript, JavaScript, Tailwind CSS |
+| ⚙️ Backend | Python, FastAPI, Flask, REST APIs |
+| 🗄️ Databases | PostgreSQL, MySQL, SQLite, Supabase, Vector DBs |
+| 🚀 Full-Stack AI | React + Python APIs + ML/AI + Database |
 
 ---
 
-# 🤝 Let's Connect
+# 📌 Featured Links
 
 <p align="center">
 
-<a href="https://linkedin.com/in/muhammadzeeshanakhtar">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zeeshan%20Akhtar-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/MuhammadZeeshanAkhtar/sigmawork-ai-modules">
+<img src="https://img.shields.io/badge/Sigma_AI_Modules-Repository-black?style=for-the-badge&logo=github" alt="Sigma AI Modules"/>
 </a>
 
-<a href="mailto:mianzeeshan4381@gmail.com">
-<img src="https://img.shields.io/badge/Email-mianzeeshan4381-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/MuhammadZeeshanAkhtar/noor-ilm-lms/tree/fresh/noor-ilm-rebuild">
+<img src="https://img.shields.io/badge/Zufishan-Islamic%20Learning%20Platform-0f766e?style=for-the-badge&logo=github" alt="Zufishan"/>
 </a>
 
 <a href="https://github.com/MuhammadZeeshanAkhtar">
-<img src="https://img.shields.io/badge/GitHub-MuhammadZeeshanAkhtar-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/All_Projects-GitHub-black?style=for-the-badge&logo=github" alt="All Projects"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadzeeshanakhtar/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 </p>
 
 ---
 
+# 📫 Let's Connect
+
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <a href="mailto:mianzeeshan4381@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/muhammadzeeshanakhtar/">💼 LinkedIn</a> •
+  <a href="https://github.com/MuhammadZeeshanAkhtar">🐙 GitHub</a>
 </p>
 
 <p align="center">
-  <i>Building intelligent software, one project at a time.</i>
+  <b>Building intelligent software, data-driven systems, and AI-powered applications. 🚀</b>
 </p>
