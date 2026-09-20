@@ -1,36 +1,300 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Akhtar</h1>
-<h3 align="center">AI/ML Engineer | Python Developer | Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Akhtar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzeeshanakhtar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzeeshanakhtar" /> </p>
+<h3 align="center">
+AI/ML Engineer | Python Developer | Data Scientist
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadzeeshanakhtar" alt="muhammadzeeshanakhtar" /></a> </p>
-
-- 🔭 I’m currently working on SigmaWork Evalution [Sigma ai modules](https://github.com/MuhammadZeeshanAkhtar/sigmawork-ai-modules)
-
-- 🌱 I’m currently learning **Advanced Machine Learning & AI Engineering**
-
-- 👯 I’m looking to collaborate on AI/ML & Full-Stack Projects [Zufishan](https://github.com/MuhammadZeeshanAkhtar/noor-ilm-lms/tree/fresh/noor-ilm-rebuild)
-
-- 🤝 I’m looking for help with Advanced AI/ML Projects **MindSense**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammadZeeshanAkhtar](https://github.com/MuhammadZeeshanAkhtar)
-
-- 💬 Ask me about **Python, AI/ML, Data Science & Full-Stack Development**
-
-- 📫 How to reach me **mianzeeshan4381@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ECCm5I4LsswYEP8feao-QUHjm-nwUznI/view?usp=sharing](https://drive.google.com/file/d/1ECCm5I4LsswYEP8feao-QUHjm-nwUznI/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadzeeshanakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzeeshanakhtar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/MuhammadZeeshanAkhtar">
+    <img src="https://komarev.com/ghpvc/?username=MuhammadZeeshanAkhtar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/MuhammadZeeshanAkhtar?tab=followers">
+    <img src="https://img.shields.io/github/followers/MuhammadZeeshanAkhtar?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadzeeshanakhtar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mianzeeshan4381@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzeeshanakhtar&show_icons=true&locale=en&layout=compact" alt="muhammadzeeshanakhtar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadzeeshanakhtar&show_icons=true&locale=en" alt="muhammadzeeshanakhtar" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzeeshanakhtar&" alt="muhammadzeeshanakhtar" /></p>
+I'm a Software Engineering graduate focused on building practical solutions
+in **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**.
+
+I enjoy transforming ideas into complete applications — from data processing
+and machine learning models to APIs, databases, and modern web interfaces.
+
+- 🎓 BS Software Engineering
+- 🤖 Focused on AI/ML and Data Science
+- 🐍 Python developer
+- 🌐 Full-Stack application development
+- 📊 Interested in Machine Learning & Data Engineering
+- 🚀 Building practical AI-powered applications
+- 📍 Based in Pakistan
+
+---
+
+## 💼 Experience
+
+### 🔹 Sigma Evaluation — AI/ML Intern
+
+Worked on AI-powered software projects during my internship, including
+AI modules for career coaching, resume generation, and interview preparation.
+
+**Focus:** Python • AI/ML • APIs • Full-Stack Development
+
+---
+
+### 🔹 2B Vision Technologies — Software Developer
+
+Worked for **6 months** on software development projects involving
+application development and technical implementation.
+
+**Focus:** Software Development • Python • Web Technologies
+
+---
+
+### 🔹 Vertex Tech — AI & Data Engineering Intern
+
+Worked on AI and data-focused development involving data processing,
+machine learning workflows, and application development.
+
+**Focus:** AI/ML • Python • Data Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI / Machine Learning Projects
+
+### 🧠 MindSense — Multimodal Depression Screening & Support
+
+A multimodal AI-based screening and support platform combining:
+
+- 📝 Questionnaire-based assessment
+- 💬 Text analysis
+- 🎙️ Voice analysis
+- 🎥 Facial/video analysis
+- 🧠 Multimodal fusion
+- 📊 Assessment reports
+- 📈 Mood tracking
+- 🧑‍💻 Admin dashboard
+
+**Tech Stack:**
+
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `Python`
+`PyTorch` `Transformers` `RoBERTa` `OpenSMILE`
+`OpenFace` `librosa` `faster-whisper` `Supabase`
+
+🔗 **Repository:**  
+https://github.com/MuhammadZeeshanAkhtar
+
+---
+
+## 🧠 Full-Stack AI Projects
+
+### 🚀 SigmaWork AI Modules
+
+A collection of AI-powered modules developed during my internship,
+including:
+
+- 💬 Career Coaching Chatbot
+- 📄 AI Resume Maker
+- 🎤 Interview Preparation System
+- 🧠 Profile and resume grounded AI interactions
+- 📚 Interview history and feedback
+
+**Tech Stack:**
+
+`Python` `AI/ML` `APIs` `MySQL` `Drizzle`
+`React` `TypeScript` `Node.js`
+
+🔗 **Repository:**  
+https://github.com/MuhammadZeeshanAkhtar/sigmawork-ai-modules
+
+---
+
+### 📚 Noor Ilm — Islamic Learning Platform
+
+A modern learning management platform designed for tutors and learners,
+with separate dashboards and learning workflows.
+
+**Focus:**
+
+- 👨‍🏫 Tutor Dashboard
+- 👨‍🎓 Learner Dashboard
+- 🔐 Authentication
+- 📚 Learning Modules
+- 🔔 Notifications
+- 🌐 Multi-language support
+- 📊 User data management
+
+**Tech Stack:**
+
+`React` `TypeScript` `Tailwind CSS` `Supabase`
+
+🔗 **Repository:**  
+https://github.com/MuhammadZeeshanAkhtar/noor-ilm-lms
+
+---
+
+# 🎨 Frontend Projects
+
+I also build modern, responsive interfaces using:
+
+`React` `TypeScript` `JavaScript` `Tailwind CSS`
+`HTML5` `CSS3` `Vite`
+
+My frontend work focuses on:
+
+- Responsive UI
+- Dashboard design
+- Component-based architecture
+- Modern UX
+- API integration
+- Authentication flows
+- Data visualization
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+**Libraries & Tools**
+
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+`PyTorch` `OpenCV` `Transformers`
+`librosa` `OpenSMILE` `OpenFace`
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZeeshanAkhtar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshanAkhtar&layout=compact&langs_count=8&hide_border=true" height="180"/>
+</p>
+
+---
+
+# ⭐ GitHub Repository & Contribution Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZeeshanAkhtar&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZeeshanAkhtar&theme=github_dark" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZeeshanAkhtar&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZeeshanAkhtar&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadZeeshanAkhtar&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+# 📌 What I Build
+
+| Area | Focus |
+|------|------|
+| 🤖 AI / ML | Machine Learning, Deep Learning, NLP, Computer Vision |
+| 🧠 AI Applications | AI-powered real-world applications |
+| 🌐 Full-Stack AI | React + Python + AI/ML + APIs |
+| 🎨 Frontend | React, TypeScript, Tailwind CSS |
+| 🐍 Backend | Python, Flask, FastAPI |
+| 📊 Data | Pandas, NumPy, SQL, Data Processing |
+| 🗄️ Database | PostgreSQL, MySQL, SQLite, Supabase |
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/muhammadzeeshanakhtar">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Zeeshan%20Akhtar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mianzeeshan4381@gmail.com">
+<img src="https://img.shields.io/badge/Email-mianzeeshan4381-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/MuhammadZeeshanAkhtar">
+<img src="https://img.shields.io/badge/GitHub-MuhammadZeeshanAkhtar-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building intelligent software, one project at a time.</i>
+</p>
